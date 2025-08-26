@@ -1,4 +1,11 @@
+@font-face {
+  font-family: norse-bold;
+  src: url(./fonts/Norse-Bold.otf);
+}
+
 div {
+    font-size: 3rem;
+    font-family: norse-bold;
     display: flex;
     border: 3px solid red
 }

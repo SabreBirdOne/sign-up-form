@@ -1,0 +1,7 @@
+sign-up-form-outcome.png
+Norse-Bold.otf
+odin-lined.png
+https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form
+
+grid-img.jpg
+https://unsplash.com/photos/a-black-background-with-yellow-dots-in-the-shape-of-a-curve-hy4l1C7WM38
